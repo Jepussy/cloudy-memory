@@ -1,0 +1,7 @@
+# Privacidad: el texto plano se mantiene SOLO local.
+# En el repo público se publica únicamente la versión cifrada (.enc).
+memoria_cloudy_jepus.json
+
+# Python
+__pycache__/
+*.pyc
